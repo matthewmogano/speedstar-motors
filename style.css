@@ -1,0 +1,30 @@
+  body{
+    margin: 0;
+    padding: 0;
+    background:#F8AD9D;
+  }
+
+  .fade-in-image {
+    opacity: 50%;
+  }
+  
+  .fade-in-image:hover {
+    opacity: 100%;
+    transition: opacity 1s;
+  }
+  .navbar ul {
+    list-style: none;
+    background: #bd1e43;
+    padding: 0;
+    margin: 0;
+  }
+  .navbar li {
+    display: inline-block;
+  }
+  .navbar a {
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 20px;
+  }
